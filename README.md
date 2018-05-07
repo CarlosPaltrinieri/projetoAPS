@@ -4,7 +4,9 @@ Criado para manter organizado e disponível para todos terem acesso aos arquivos
 
 1º Semestre de GTI.
 
+Exercícios feitos: Ex 2, Ex 3 e Ex 6
+
 Alunos: 
 Carlos Paltrinieri,
-Bruno Bacherli,
+Bruno Abacherli,
 Bianca ...
