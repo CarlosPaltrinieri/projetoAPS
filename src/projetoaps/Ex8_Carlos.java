@@ -7,7 +7,7 @@ public class Ex8_Carlos {
     public static void main(String[] args) {
 
         int pessoas = 15, idade[] = new int[pessoas], mediaIdade = 0, pessoaMesmaIdade[] = new int[4];
-        double peso[] = new double[pessoas], mediaPeso[] = new double[4] = 0;
+        double peso[] = new double[pessoas], mediaPeso[] = new double[4];
         
         JOptionPane.showMessageDialog(null, "Bem-vindo ao Cálculo médio de peso por Idade");
         
