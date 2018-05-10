@@ -8,6 +8,9 @@ public class Ex2_Bruno {
         Scanner entrada = new Scanner(System.in);
         int num1, num2, result;
         
+        System.out.println("Digite dois valores para saber o resultado de seu produto");
+        System.out.println("Caso desejar sair, digite 0 em ambos valores");
+        
         do {
             System.out.print("Insira um numero: ");
             num1 = entrada.nextInt();
@@ -22,3 +25,4 @@ public class Ex2_Bruno {
     }
 
 }
+
